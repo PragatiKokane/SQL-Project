@@ -1,0 +1,501 @@
+Treatment_ID,Diagnosis_ID,Treatment
+T001,DG001,Therapy
+T002,DG002,Neurological Therapy
+T003,DG003,Skin Treatment
+T004,DG004,Neurological Therapy
+T005,DG005,Therapy
+T006,DG006,Therapy
+T007,DG007,Medication
+T008,DG008,Medication
+T009,DG009,Surgery
+T010,DG010,Skin Treatment
+T011,DG011,Neurological Therapy
+T012,DG012,Skin Treatment
+T013,DG013,Neurological Therapy
+T014,DG014,Skin Treatment
+T015,DG015,Therapy
+T016,DG016,Therapy
+T017,DG017,Skin Treatment
+T018,DG018,Surgery
+T019,DG019,Therapy
+T020,DG020,Surgery
+T021,DG021,Therapy
+T022,DG022,Medication
+T023,DG023,Medication
+T024,DG024,Skin Treatment
+T025,DG025,Neurological Therapy
+T026,DG026,Medication
+T027,DG027,Therapy
+T028,DG028,Therapy
+T029,DG029,Medication
+T030,DG030,Medication
+T031,DG031,Neurological Therapy
+T032,DG032,Medication
+T033,DG033,Skin Treatment
+T034,DG034,Neurological Therapy
+T035,DG035,Medication
+T036,DG036,Therapy
+T037,DG037,Medication
+T038,DG038,Skin Treatment
+T039,DG039,Skin Treatment
+T040,DG040,Therapy
+T041,DG041,Neurological Therapy
+T042,DG042,Therapy
+T043,DG043,Medication
+T044,DG044,Therapy
+T045,DG045,Neurological Therapy
+T046,DG046,Surgery
+T047,DG047,Therapy
+T048,DG048,Neurological Therapy
+T049,DG049,Surgery
+T050,DG050,Neurological Therapy
+T051,DG051,Neurological Therapy
+T052,DG052,Surgery
+T053,DG053,Therapy
+T054,DG054,Surgery
+T055,DG055,Therapy
+T056,DG056,Neurological Therapy
+T057,DG057,Therapy
+T058,DG058,Skin Treatment
+T059,DG059,Surgery
+T060,DG060,Surgery
+T061,DG061,Medication
+T062,DG062,Neurological Therapy
+T063,DG063,Neurological Therapy
+T064,DG064,Therapy
+T065,DG065,Skin Treatment
+T066,DG066,Neurological Therapy
+T067,DG067,Skin Treatment
+T068,DG068,Medication
+T069,DG069,Surgery
+T070,DG070,Skin Treatment
+T071,DG071,Neurological Therapy
+T072,DG072,Surgery
+T073,DG073,Skin Treatment
+T074,DG074,Skin Treatment
+T075,DG075,Therapy
+T076,DG076,Surgery
+T077,DG077,Skin Treatment
+T078,DG078,Therapy
+T079,DG079,Neurological Therapy
+T080,DG080,Skin Treatment
+T081,DG081,Therapy
+T082,DG082,Therapy
+T083,DG083,Surgery
+T084,DG084,Therapy
+T085,DG085,Skin Treatment
+T086,DG086,Medication
+T087,DG087,Neurological Therapy
+T088,DG088,Skin Treatment
+T089,DG089,Skin Treatment
+T090,DG090,Neurological Therapy
+T091,DG091,Neurological Therapy
+T092,DG092,Therapy
+T093,DG093,Skin Treatment
+T094,DG094,Therapy
+T095,DG095,Surgery
+T096,DG096,Therapy
+T097,DG097,Surgery
+T098,DG098,Medication
+T099,DG099,Skin Treatment
+T100,DG100,Surgery
+T101,DG101,Medication
+T102,DG102,Neurological Therapy
+T103,DG103,Therapy
+T104,DG104,Medication
+T105,DG105,Surgery
+T106,DG106,Skin Treatment
+T107,DG107,Neurological Therapy
+T108,DG108,Neurological Therapy
+T109,DG109,Medication
+T110,DG110,Medication
+T111,DG111,Therapy
+T112,DG112,Neurological Therapy
+T113,DG113,Neurological Therapy
+T114,DG114,Therapy
+T115,DG115,Skin Treatment
+T116,DG116,Therapy
+T117,DG117,Surgery
+T118,DG118,Surgery
+T119,DG119,Medication
+T120,DG120,Therapy
+T121,DG121,Therapy
+T122,DG122,Medication
+T123,DG123,Skin Treatment
+T124,DG124,Therapy
+T125,DG125,Neurological Therapy
+T126,DG126,Therapy
+T127,DG127,Skin Treatment
+T128,DG128,Therapy
+T129,DG129,Neurological Therapy
+T130,DG130,Surgery
+T131,DG131,Surgery
+T132,DG132,Skin Treatment
+T133,DG133,Skin Treatment
+T134,DG134,Neurological Therapy
+T135,DG135,Surgery
+T136,DG136,Surgery
+T137,DG137,Surgery
+T138,DG138,Surgery
+T139,DG139,Neurological Therapy
+T140,DG140,Skin Treatment
+T141,DG141,Skin Treatment
+T142,DG142,Medication
+T143,DG143,Skin Treatment
+T144,DG144,Surgery
+T145,DG145,Therapy
+T146,DG146,Surgery
+T147,DG147,Surgery
+T148,DG148,Skin Treatment
+T149,DG149,Medication
+T150,DG150,Neurological Therapy
+T151,DG151,Therapy
+T152,DG152,Therapy
+T153,DG153,Medication
+T154,DG154,Surgery
+T155,DG155,Neurological Therapy
+T156,DG156,Neurological Therapy
+T157,DG157,Neurological Therapy
+T158,DG158,Skin Treatment
+T159,DG159,Surgery
+T160,DG160,Therapy
+T161,DG161,Therapy
+T162,DG162,Surgery
+T163,DG163,Therapy
+T164,DG164,Skin Treatment
+T165,DG165,Neurological Therapy
+T166,DG166,Therapy
+T167,DG167,Skin Treatment
+T168,DG168,Neurological Therapy
+T169,DG169,Surgery
+T170,DG170,Surgery
+T171,DG171,Skin Treatment
+T172,DG172,Skin Treatment
+T173,DG173,Skin Treatment
+T174,DG174,Therapy
+T175,DG175,Surgery
+T176,DG176,Therapy
+T177,DG177,Therapy
+T178,DG178,Neurological Therapy
+T179,DG179,Skin Treatment
+T180,DG180,Therapy
+T181,DG181,Neurological Therapy
+T182,DG182,Medication
+T183,DG183,Neurological Therapy
+T184,DG184,Medication
+T185,DG185,Medication
+T186,DG186,Medication
+T187,DG187,Medication
+T188,DG188,Skin Treatment
+T189,DG189,Therapy
+T190,DG190,Therapy
+T191,DG191,Medication
+T192,DG192,Therapy
+T193,DG193,Medication
+T194,DG194,Therapy
+T195,DG195,Neurological Therapy
+T196,DG196,Skin Treatment
+T197,DG197,Surgery
+T198,DG198,Medication
+T199,DG199,Neurological Therapy
+T200,DG200,Neurological Therapy
+T201,DG201,Skin Treatment
+T202,DG202,Skin Treatment
+T203,DG203,Medication
+T204,DG204,Medication
+T205,DG205,Neurological Therapy
+T206,DG206,Neurological Therapy
+T207,DG207,Skin Treatment
+T208,DG208,Medication
+T209,DG209,Medication
+T210,DG210,Neurological Therapy
+T211,DG211,Surgery
+T212,DG212,Neurological Therapy
+T213,DG213,Surgery
+T214,DG214,Medication
+T215,DG215,Neurological Therapy
+T216,DG216,Skin Treatment
+T217,DG217,Therapy
+T218,DG218,Medication
+T219,DG219,Medication
+T220,DG220,Neurological Therapy
+T221,DG221,Therapy
+T222,DG222,Therapy
+T223,DG223,Therapy
+T224,DG224,Neurological Therapy
+T225,DG225,Neurological Therapy
+T226,DG226,Surgery
+T227,DG227,Surgery
+T228,DG228,Surgery
+T229,DG229,Skin Treatment
+T230,DG230,Medication
+T231,DG231,Surgery
+T232,DG232,Skin Treatment
+T233,DG233,Skin Treatment
+T234,DG234,Neurological Therapy
+T235,DG235,Therapy
+T236,DG236,Therapy
+T237,DG237,Surgery
+T238,DG238,Medication
+T239,DG239,Medication
+T240,DG240,Medication
+T241,DG241,Skin Treatment
+T242,DG242,Skin Treatment
+T243,DG243,Skin Treatment
+T244,DG244,Neurological Therapy
+T245,DG245,Skin Treatment
+T246,DG246,Medication
+T247,DG247,Medication
+T248,DG248,Therapy
+T249,DG249,Medication
+T250,DG250,Skin Treatment
+T251,DG251,Skin Treatment
+T252,DG252,Surgery
+T253,DG253,Neurological Therapy
+T254,DG254,Medication
+T255,DG255,Neurological Therapy
+T256,DG256,Medication
+T257,DG257,Therapy
+T258,DG258,Therapy
+T259,DG259,Neurological Therapy
+T260,DG260,Skin Treatment
+T261,DG261,Surgery
+T262,DG262,Medication
+T263,DG263,Medication
+T264,DG264,Surgery
+T265,DG265,Neurological Therapy
+T266,DG266,Neurological Therapy
+T267,DG267,Medication
+T268,DG268,Therapy
+T269,DG269,Surgery
+T270,DG270,Medication
+T271,DG271,Therapy
+T272,DG272,Neurological Therapy
+T273,DG273,Therapy
+T274,DG274,Skin Treatment
+T275,DG275,Medication
+T276,DG276,Surgery
+T277,DG277,Therapy
+T278,DG278,Neurological Therapy
+T279,DG279,Therapy
+T280,DG280,Neurological Therapy
+T281,DG281,Skin Treatment
+T282,DG282,Neurological Therapy
+T283,DG283,Surgery
+T284,DG284,Skin Treatment
+T285,DG285,Therapy
+T286,DG286,Medication
+T287,DG287,Neurological Therapy
+T288,DG288,Surgery
+T289,DG289,Medication
+T290,DG290,Medication
+T291,DG291,Skin Treatment
+T292,DG292,Therapy
+T293,DG293,Medication
+T294,DG294,Surgery
+T295,DG295,Neurological Therapy
+T296,DG296,Neurological Therapy
+T297,DG297,Neurological Therapy
+T298,DG298,Skin Treatment
+T299,DG299,Surgery
+T300,DG300,Medication
+T301,DG301,Surgery
+T302,DG302,Skin Treatment
+T303,DG303,Skin Treatment
+T304,DG304,Therapy
+T305,DG305,Surgery
+T306,DG306,Neurological Therapy
+T307,DG307,Skin Treatment
+T308,DG308,Skin Treatment
+T309,DG309,Therapy
+T310,DG310,Neurological Therapy
+T311,DG311,Skin Treatment
+T312,DG312,Medication
+T313,DG313,Neurological Therapy
+T314,DG314,Surgery
+T315,DG315,Therapy
+T316,DG316,Medication
+T317,DG317,Medication
+T318,DG318,Surgery
+T319,DG319,Therapy
+T320,DG320,Skin Treatment
+T321,DG321,Therapy
+T322,DG322,Skin Treatment
+T323,DG323,Surgery
+T324,DG324,Surgery
+T325,DG325,Medication
+T326,DG326,Medication
+T327,DG327,Medication
+T328,DG328,Surgery
+T329,DG329,Skin Treatment
+T330,DG330,Surgery
+T331,DG331,Surgery
+T332,DG332,Medication
+T333,DG333,Therapy
+T334,DG334,Medication
+T335,DG335,Therapy
+T336,DG336,Skin Treatment
+T337,DG337,Skin Treatment
+T338,DG338,Neurological Therapy
+T339,DG339,Neurological Therapy
+T340,DG340,Neurological Therapy
+T341,DG341,Skin Treatment
+T342,DG342,Medication
+T343,DG343,Medication
+T344,DG344,Medication
+T345,DG345,Surgery
+T346,DG346,Neurological Therapy
+T347,DG347,Medication
+T348,DG348,Neurological Therapy
+T349,DG349,Neurological Therapy
+T350,DG350,Surgery
+T351,DG351,Skin Treatment
+T352,DG352,Medication
+T353,DG353,Surgery
+T354,DG354,Skin Treatment
+T355,DG355,Skin Treatment
+T356,DG356,Medication
+T357,DG357,Neurological Therapy
+T358,DG358,Therapy
+T359,DG359,Neurological Therapy
+T360,DG360,Neurological Therapy
+T361,DG361,Therapy
+T362,DG362,Skin Treatment
+T363,DG363,Therapy
+T364,DG364,Therapy
+T365,DG365,Surgery
+T366,DG366,Surgery
+T367,DG367,Surgery
+T368,DG368,Skin Treatment
+T369,DG369,Therapy
+T370,DG370,Medication
+T371,DG371,Therapy
+T372,DG372,Skin Treatment
+T373,DG373,Surgery
+T374,DG374,Skin Treatment
+T375,DG375,Surgery
+T376,DG376,Skin Treatment
+T377,DG377,Medication
+T378,DG378,Surgery
+T379,DG379,Surgery
+T380,DG380,Therapy
+T381,DG381,Skin Treatment
+T382,DG382,Neurological Therapy
+T383,DG383,Neurological Therapy
+T384,DG384,Therapy
+T385,DG385,Skin Treatment
+T386,DG386,Medication
+T387,DG387,Therapy
+T388,DG388,Surgery
+T389,DG389,Medication
+T390,DG390,Skin Treatment
+T391,DG391,Surgery
+T392,DG392,Neurological Therapy
+T393,DG393,Skin Treatment
+T394,DG394,Surgery
+T395,DG395,Skin Treatment
+T396,DG396,Surgery
+T397,DG397,Skin Treatment
+T398,DG398,Neurological Therapy
+T399,DG399,Therapy
+T400,DG400,Surgery
+T401,DG401,Surgery
+T402,DG402,Neurological Therapy
+T403,DG403,Therapy
+T404,DG404,Skin Treatment
+T405,DG405,Surgery
+T406,DG406,Therapy
+T407,DG407,Skin Treatment
+T408,DG408,Surgery
+T409,DG409,Surgery
+T410,DG410,Skin Treatment
+T411,DG411,Neurological Therapy
+T412,DG412,Therapy
+T413,DG413,Surgery
+T414,DG414,Skin Treatment
+T415,DG415,Surgery
+T416,DG416,Skin Treatment
+T417,DG417,Surgery
+T418,DG418,Medication
+T419,DG419,Neurological Therapy
+T420,DG420,Therapy
+T421,DG421,Neurological Therapy
+T422,DG422,Neurological Therapy
+T423,DG423,Therapy
+T424,DG424,Neurological Therapy
+T425,DG425,Medication
+T426,DG426,Skin Treatment
+T427,DG427,Therapy
+T428,DG428,Skin Treatment
+T429,DG429,Surgery
+T430,DG430,Medication
+T431,DG431,Skin Treatment
+T432,DG432,Skin Treatment
+T433,DG433,Therapy
+T434,DG434,Surgery
+T435,DG435,Therapy
+T436,DG436,Surgery
+T437,DG437,Therapy
+T438,DG438,Skin Treatment
+T439,DG439,Skin Treatment
+T440,DG440,Medication
+T441,DG441,Skin Treatment
+T442,DG442,Neurological Therapy
+T443,DG443,Skin Treatment
+T444,DG444,Neurological Therapy
+T445,DG445,Skin Treatment
+T446,DG446,Neurological Therapy
+T447,DG447,Neurological Therapy
+T448,DG448,Skin Treatment
+T449,DG449,Neurological Therapy
+T450,DG450,Medication
+T451,DG451,Surgery
+T452,DG452,Neurological Therapy
+T453,DG453,Neurological Therapy
+T454,DG454,Medication
+T455,DG455,Medication
+T456,DG456,Therapy
+T457,DG457,Surgery
+T458,DG458,Therapy
+T459,DG459,Neurological Therapy
+T460,DG460,Medication
+T461,DG461,Neurological Therapy
+T462,DG462,Skin Treatment
+T463,DG463,Surgery
+T464,DG464,Skin Treatment
+T465,DG465,Medication
+T466,DG466,Medication
+T467,DG467,Medication
+T468,DG468,Surgery
+T469,DG469,Therapy
+T470,DG470,Neurological Therapy
+T471,DG471,Neurological Therapy
+T472,DG472,Neurological Therapy
+T473,DG473,Neurological Therapy
+T474,DG474,Neurological Therapy
+T475,DG475,Therapy
+T476,DG476,Skin Treatment
+T477,DG477,Surgery
+T478,DG478,Skin Treatment
+T479,DG479,Skin Treatment
+T480,DG480,Neurological Therapy
+T481,DG481,Neurological Therapy
+T482,DG482,Therapy
+T483,DG483,Surgery
+T484,DG484,Medication
+T485,DG485,Skin Treatment
+T486,DG486,Medication
+T487,DG487,Surgery
+T488,DG488,Skin Treatment
+T489,DG489,Medication
+T490,DG490,Medication
+T491,DG491,Therapy
+T492,DG492,Surgery
+T493,DG493,Surgery
+T494,DG494,Surgery
+T495,DG495,Skin Treatment
+T496,DG496,Therapy
+T497,DG497,Neurological Therapy
+T498,DG498,Skin Treatment
+T499,DG499,Surgery
+T500,DG500,Skin Treatment

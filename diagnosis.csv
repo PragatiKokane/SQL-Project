@@ -1,0 +1,501 @@
+Diagnosis_ID,Appointment_ID,Disease
+DG001,A001,Migraine
+DG002,A002,Migraine
+DG003,A003,Fracture
+DG004,A004,Skin Allergy
+DG005,A005,Migraine
+DG006,A006,Hypertension
+DG007,A007,Migraine
+DG008,A008,Viral Fever
+DG009,A009,Viral Fever
+DG010,A010,Fracture
+DG011,A011,Skin Allergy
+DG012,A012,Skin Allergy
+DG013,A013,Migraine
+DG014,A014,Skin Allergy
+DG015,A015,Skin Allergy
+DG016,A016,Migraine
+DG017,A017,Viral Fever
+DG018,A018,Hypertension
+DG019,A019,Fracture
+DG020,A020,Viral Fever
+DG021,A021,Skin Allergy
+DG022,A022,Skin Allergy
+DG023,A023,Migraine
+DG024,A024,Fracture
+DG025,A025,Hypertension
+DG026,A026,Migraine
+DG027,A027,Migraine
+DG028,A028,Hypertension
+DG029,A029,Hypertension
+DG030,A030,Skin Allergy
+DG031,A031,Migraine
+DG032,A032,Viral Fever
+DG033,A033,Viral Fever
+DG034,A034,Migraine
+DG035,A035,Hypertension
+DG036,A036,Fracture
+DG037,A037,Hypertension
+DG038,A038,Hypertension
+DG039,A039,Fracture
+DG040,A040,Hypertension
+DG041,A041,Fracture
+DG042,A042,Migraine
+DG043,A043,Fracture
+DG044,A044,Viral Fever
+DG045,A045,Fracture
+DG046,A046,Hypertension
+DG047,A047,Migraine
+DG048,A048,Fracture
+DG049,A049,Hypertension
+DG050,A050,Fracture
+DG051,A051,Migraine
+DG052,A052,Migraine
+DG053,A053,Viral Fever
+DG054,A054,Migraine
+DG055,A055,Hypertension
+DG056,A056,Migraine
+DG057,A057,Migraine
+DG058,A058,Hypertension
+DG059,A059,Hypertension
+DG060,A060,Migraine
+DG061,A061,Migraine
+DG062,A062,Fracture
+DG063,A063,Migraine
+DG064,A064,Viral Fever
+DG065,A065,Viral Fever
+DG066,A066,Viral Fever
+DG067,A067,Viral Fever
+DG068,A068,Migraine
+DG069,A069,Fracture
+DG070,A070,Hypertension
+DG071,A071,Migraine
+DG072,A072,Skin Allergy
+DG073,A073,Migraine
+DG074,A074,Viral Fever
+DG075,A075,Skin Allergy
+DG076,A076,Migraine
+DG077,A077,Fracture
+DG078,A078,Fracture
+DG079,A079,Skin Allergy
+DG080,A080,Hypertension
+DG081,A081,Skin Allergy
+DG082,A082,Fracture
+DG083,A083,Skin Allergy
+DG084,A084,Viral Fever
+DG085,A085,Viral Fever
+DG086,A086,Hypertension
+DG087,A087,Skin Allergy
+DG088,A088,Skin Allergy
+DG089,A089,Skin Allergy
+DG090,A090,Skin Allergy
+DG091,A091,Hypertension
+DG092,A092,Fracture
+DG093,A093,Migraine
+DG094,A094,Hypertension
+DG095,A095,Fracture
+DG096,A096,Fracture
+DG097,A097,Fracture
+DG098,A098,Skin Allergy
+DG099,A099,Hypertension
+DG100,A100,Fracture
+DG101,A101,Migraine
+DG102,A102,Migraine
+DG103,A103,Viral Fever
+DG104,A104,Fracture
+DG105,A105,Hypertension
+DG106,A106,Skin Allergy
+DG107,A107,Viral Fever
+DG108,A108,Fracture
+DG109,A109,Skin Allergy
+DG110,A110,Hypertension
+DG111,A111,Hypertension
+DG112,A112,Viral Fever
+DG113,A113,Viral Fever
+DG114,A114,Fracture
+DG115,A115,Skin Allergy
+DG116,A116,Migraine
+DG117,A117,Skin Allergy
+DG118,A118,Hypertension
+DG119,A119,Hypertension
+DG120,A120,Fracture
+DG121,A121,Migraine
+DG122,A122,Fracture
+DG123,A123,Hypertension
+DG124,A124,Hypertension
+DG125,A125,Skin Allergy
+DG126,A126,Migraine
+DG127,A127,Skin Allergy
+DG128,A128,Skin Allergy
+DG129,A129,Fracture
+DG130,A130,Skin Allergy
+DG131,A131,Viral Fever
+DG132,A132,Viral Fever
+DG133,A133,Skin Allergy
+DG134,A134,Migraine
+DG135,A135,Skin Allergy
+DG136,A136,Hypertension
+DG137,A137,Hypertension
+DG138,A138,Migraine
+DG139,A139,Fracture
+DG140,A140,Viral Fever
+DG141,A141,Viral Fever
+DG142,A142,Fracture
+DG143,A143,Skin Allergy
+DG144,A144,Migraine
+DG145,A145,Skin Allergy
+DG146,A146,Fracture
+DG147,A147,Migraine
+DG148,A148,Viral Fever
+DG149,A149,Viral Fever
+DG150,A150,Skin Allergy
+DG151,A151,Hypertension
+DG152,A152,Fracture
+DG153,A153,Fracture
+DG154,A154,Skin Allergy
+DG155,A155,Fracture
+DG156,A156,Viral Fever
+DG157,A157,Skin Allergy
+DG158,A158,Viral Fever
+DG159,A159,Migraine
+DG160,A160,Migraine
+DG161,A161,Hypertension
+DG162,A162,Fracture
+DG163,A163,Migraine
+DG164,A164,Fracture
+DG165,A165,Viral Fever
+DG166,A166,Skin Allergy
+DG167,A167,Migraine
+DG168,A168,Skin Allergy
+DG169,A169,Migraine
+DG170,A170,Fracture
+DG171,A171,Migraine
+DG172,A172,Migraine
+DG173,A173,Viral Fever
+DG174,A174,Hypertension
+DG175,A175,Viral Fever
+DG176,A176,Skin Allergy
+DG177,A177,Fracture
+DG178,A178,Fracture
+DG179,A179,Migraine
+DG180,A180,Fracture
+DG181,A181,Hypertension
+DG182,A182,Hypertension
+DG183,A183,Migraine
+DG184,A184,Migraine
+DG185,A185,Skin Allergy
+DG186,A186,Migraine
+DG187,A187,Viral Fever
+DG188,A188,Viral Fever
+DG189,A189,Viral Fever
+DG190,A190,Hypertension
+DG191,A191,Fracture
+DG192,A192,Skin Allergy
+DG193,A193,Migraine
+DG194,A194,Skin Allergy
+DG195,A195,Hypertension
+DG196,A196,Migraine
+DG197,A197,Migraine
+DG198,A198,Hypertension
+DG199,A199,Fracture
+DG200,A200,Migraine
+DG201,A201,Fracture
+DG202,A202,Hypertension
+DG203,A203,Skin Allergy
+DG204,A204,Migraine
+DG205,A205,Fracture
+DG206,A206,Migraine
+DG207,A207,Fracture
+DG208,A208,Migraine
+DG209,A209,Migraine
+DG210,A210,Migraine
+DG211,A211,Skin Allergy
+DG212,A212,Migraine
+DG213,A213,Fracture
+DG214,A214,Skin Allergy
+DG215,A215,Viral Fever
+DG216,A216,Fracture
+DG217,A217,Fracture
+DG218,A218,Viral Fever
+DG219,A219,Skin Allergy
+DG220,A220,Migraine
+DG221,A221,Fracture
+DG222,A222,Viral Fever
+DG223,A223,Migraine
+DG224,A224,Skin Allergy
+DG225,A225,Fracture
+DG226,A226,Migraine
+DG227,A227,Migraine
+DG228,A228,Hypertension
+DG229,A229,Viral Fever
+DG230,A230,Migraine
+DG231,A231,Skin Allergy
+DG232,A232,Hypertension
+DG233,A233,Migraine
+DG234,A234,Migraine
+DG235,A235,Skin Allergy
+DG236,A236,Hypertension
+DG237,A237,Hypertension
+DG238,A238,Viral Fever
+DG239,A239,Migraine
+DG240,A240,Viral Fever
+DG241,A241,Hypertension
+DG242,A242,Viral Fever
+DG243,A243,Skin Allergy
+DG244,A244,Fracture
+DG245,A245,Skin Allergy
+DG246,A246,Hypertension
+DG247,A247,Skin Allergy
+DG248,A248,Hypertension
+DG249,A249,Skin Allergy
+DG250,A250,Migraine
+DG251,A251,Migraine
+DG252,A252,Skin Allergy
+DG253,A253,Viral Fever
+DG254,A254,Hypertension
+DG255,A255,Migraine
+DG256,A256,Hypertension
+DG257,A257,Migraine
+DG258,A258,Fracture
+DG259,A259,Skin Allergy
+DG260,A260,Migraine
+DG261,A261,Skin Allergy
+DG262,A262,Fracture
+DG263,A263,Hypertension
+DG264,A264,Skin Allergy
+DG265,A265,Migraine
+DG266,A266,Fracture
+DG267,A267,Migraine
+DG268,A268,Fracture
+DG269,A269,Fracture
+DG270,A270,Migraine
+DG271,A271,Skin Allergy
+DG272,A272,Hypertension
+DG273,A273,Hypertension
+DG274,A274,Fracture
+DG275,A275,Migraine
+DG276,A276,Fracture
+DG277,A277,Hypertension
+DG278,A278,Fracture
+DG279,A279,Fracture
+DG280,A280,Hypertension
+DG281,A281,Skin Allergy
+DG282,A282,Fracture
+DG283,A283,Skin Allergy
+DG284,A284,Fracture
+DG285,A285,Migraine
+DG286,A286,Fracture
+DG287,A287,Fracture
+DG288,A288,Viral Fever
+DG289,A289,Migraine
+DG290,A290,Migraine
+DG291,A291,Skin Allergy
+DG292,A292,Skin Allergy
+DG293,A293,Fracture
+DG294,A294,Hypertension
+DG295,A295,Fracture
+DG296,A296,Viral Fever
+DG297,A297,Fracture
+DG298,A298,Viral Fever
+DG299,A299,Fracture
+DG300,A300,Skin Allergy
+DG301,A301,Fracture
+DG302,A302,Skin Allergy
+DG303,A303,Hypertension
+DG304,A304,Hypertension
+DG305,A305,Migraine
+DG306,A306,Fracture
+DG307,A307,Migraine
+DG308,A308,Fracture
+DG309,A309,Hypertension
+DG310,A310,Viral Fever
+DG311,A311,Migraine
+DG312,A312,Migraine
+DG313,A313,Hypertension
+DG314,A314,Hypertension
+DG315,A315,Viral Fever
+DG316,A316,Migraine
+DG317,A317,Hypertension
+DG318,A318,Hypertension
+DG319,A319,Viral Fever
+DG320,A320,Viral Fever
+DG321,A321,Skin Allergy
+DG322,A322,Fracture
+DG323,A323,Skin Allergy
+DG324,A324,Viral Fever
+DG325,A325,Hypertension
+DG326,A326,Viral Fever
+DG327,A327,Migraine
+DG328,A328,Hypertension
+DG329,A329,Skin Allergy
+DG330,A330,Skin Allergy
+DG331,A331,Skin Allergy
+DG332,A332,Hypertension
+DG333,A333,Fracture
+DG334,A334,Fracture
+DG335,A335,Fracture
+DG336,A336,Viral Fever
+DG337,A337,Viral Fever
+DG338,A338,Migraine
+DG339,A339,Hypertension
+DG340,A340,Migraine
+DG341,A341,Viral Fever
+DG342,A342,Hypertension
+DG343,A343,Skin Allergy
+DG344,A344,Hypertension
+DG345,A345,Viral Fever
+DG346,A346,Skin Allergy
+DG347,A347,Skin Allergy
+DG348,A348,Hypertension
+DG349,A349,Fracture
+DG350,A350,Viral Fever
+DG351,A351,Viral Fever
+DG352,A352,Fracture
+DG353,A353,Migraine
+DG354,A354,Migraine
+DG355,A355,Viral Fever
+DG356,A356,Fracture
+DG357,A357,Fracture
+DG358,A358,Skin Allergy
+DG359,A359,Migraine
+DG360,A360,Migraine
+DG361,A361,Skin Allergy
+DG362,A362,Hypertension
+DG363,A363,Migraine
+DG364,A364,Skin Allergy
+DG365,A365,Fracture
+DG366,A366,Hypertension
+DG367,A367,Viral Fever
+DG368,A368,Fracture
+DG369,A369,Hypertension
+DG370,A370,Skin Allergy
+DG371,A371,Fracture
+DG372,A372,Hypertension
+DG373,A373,Viral Fever
+DG374,A374,Fracture
+DG375,A375,Fracture
+DG376,A376,Migraine
+DG377,A377,Hypertension
+DG378,A378,Hypertension
+DG379,A379,Migraine
+DG380,A380,Skin Allergy
+DG381,A381,Skin Allergy
+DG382,A382,Migraine
+DG383,A383,Fracture
+DG384,A384,Viral Fever
+DG385,A385,Skin Allergy
+DG386,A386,Viral Fever
+DG387,A387,Hypertension
+DG388,A388,Hypertension
+DG389,A389,Skin Allergy
+DG390,A390,Fracture
+DG391,A391,Hypertension
+DG392,A392,Viral Fever
+DG393,A393,Fracture
+DG394,A394,Skin Allergy
+DG395,A395,Hypertension
+DG396,A396,Skin Allergy
+DG397,A397,Fracture
+DG398,A398,Fracture
+DG399,A399,Fracture
+DG400,A400,Migraine
+DG401,A401,Migraine
+DG402,A402,Viral Fever
+DG403,A403,Fracture
+DG404,A404,Fracture
+DG405,A405,Hypertension
+DG406,A406,Viral Fever
+DG407,A407,Viral Fever
+DG408,A408,Skin Allergy
+DG409,A409,Fracture
+DG410,A410,Hypertension
+DG411,A411,Skin Allergy
+DG412,A412,Migraine
+DG413,A413,Fracture
+DG414,A414,Viral Fever
+DG415,A415,Fracture
+DG416,A416,Fracture
+DG417,A417,Migraine
+DG418,A418,Hypertension
+DG419,A419,Hypertension
+DG420,A420,Hypertension
+DG421,A421,Skin Allergy
+DG422,A422,Hypertension
+DG423,A423,Skin Allergy
+DG424,A424,Migraine
+DG425,A425,Fracture
+DG426,A426,Skin Allergy
+DG427,A427,Migraine
+DG428,A428,Skin Allergy
+DG429,A429,Migraine
+DG430,A430,Hypertension
+DG431,A431,Hypertension
+DG432,A432,Migraine
+DG433,A433,Viral Fever
+DG434,A434,Migraine
+DG435,A435,Skin Allergy
+DG436,A436,Migraine
+DG437,A437,Fracture
+DG438,A438,Viral Fever
+DG439,A439,Migraine
+DG440,A440,Viral Fever
+DG441,A441,Viral Fever
+DG442,A442,Migraine
+DG443,A443,Migraine
+DG444,A444,Hypertension
+DG445,A445,Migraine
+DG446,A446,Migraine
+DG447,A447,Hypertension
+DG448,A448,Hypertension
+DG449,A449,Fracture
+DG450,A450,Migraine
+DG451,A451,Skin Allergy
+DG452,A452,Viral Fever
+DG453,A453,Hypertension
+DG454,A454,Migraine
+DG455,A455,Skin Allergy
+DG456,A456,Viral Fever
+DG457,A457,Migraine
+DG458,A458,Skin Allergy
+DG459,A459,Viral Fever
+DG460,A460,Skin Allergy
+DG461,A461,Hypertension
+DG462,A462,Migraine
+DG463,A463,Skin Allergy
+DG464,A464,Skin Allergy
+DG465,A465,Migraine
+DG466,A466,Viral Fever
+DG467,A467,Migraine
+DG468,A468,Skin Allergy
+DG469,A469,Fracture
+DG470,A470,Viral Fever
+DG471,A471,Skin Allergy
+DG472,A472,Fracture
+DG473,A473,Viral Fever
+DG474,A474,Hypertension
+DG475,A475,Migraine
+DG476,A476,Viral Fever
+DG477,A477,Viral Fever
+DG478,A478,Skin Allergy
+DG479,A479,Fracture
+DG480,A480,Viral Fever
+DG481,A481,Migraine
+DG482,A482,Viral Fever
+DG483,A483,Viral Fever
+DG484,A484,Skin Allergy
+DG485,A485,Viral Fever
+DG486,A486,Fracture
+DG487,A487,Skin Allergy
+DG488,A488,Hypertension
+DG489,A489,Hypertension
+DG490,A490,Skin Allergy
+DG491,A491,Fracture
+DG492,A492,Skin Allergy
+DG493,A493,Skin Allergy
+DG494,A494,Skin Allergy
+DG495,A495,Skin Allergy
+DG496,A496,Viral Fever
+DG497,A497,Migraine
+DG498,A498,Hypertension
+DG499,A499,Fracture
+DG500,A500,Viral Fever
